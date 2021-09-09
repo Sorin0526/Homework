@@ -1,0 +1,46 @@
+
+
+
+
+
+
+
+
+HOW TO TEST AN ELEVATOR
+-----------------------
+
+Functional Testing:
+
+1. Puch/call button. Call for the elevator.
+
+2. Check the electronic display (if any) if it provides the existing location of the elevator. (outside& inside the elevator)
+
+3. Check if the the sound that tells patrons the elevator arrived to the desired floor works properly.
+
+4. Door operational functions. Do they open or close properly.
+
+5. Door close button: Verify that the door close button exist and works properly.
+
+6. Buttons. Verify that buttons of floors have correct numbers and lighted.
+
+7. Movement: Verify when passenger presses the number of the floor, elevator goes correctly to that floor (up&down).
+
+8. Working properly: Verify that elevator cabin won't stuck between the floors.
+
+9. Help Button: Verify that help button works correctly, and has dispatcher who is responsible to solve the problem.
+
+10. Security: Verify that in case of emergency elevator will stop.(In case of fire, natural disasters etc..)
+
+
+
+Non-functional Testing:
+
+1. Capacity: Verify that elevator has capacity restrictions and has legal weight limit.
+
+2. Lighting: Verify that the elevator is illuminated.
+
+3. Condition: Verify that elevator is clean and in a good condition, and designed well.
+
+4. Lighting: Verify that the elevator is illuminated.
+
+5. Check the elevator panel is installed on the same side on every floor.
