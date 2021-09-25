@@ -17,10 +17,7 @@ public class Task_1 {
             int lengthFirst=first.length();
             String minus=seocnd.substring(0,lengthFirst);
             System.out.println(first.concat(minus));
-        }else{
-            int lengthSecond=seocnd.length();
-            String minus=first.substring(0,lengthSecond);
-            System.out.println(minus.concat(seocnd));
+
         }
 
 
