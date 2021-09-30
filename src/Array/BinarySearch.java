@@ -36,13 +36,11 @@ public class BinarySearch {
 
 
 
+        // it is similar to string.indeOf
 
+        String string = "java";
 
-
-
-//        String string = "java";
-//
-//        System.out.println(string.indexOf('a'));//  -->  index number of first 'a' --> 1
+        System.out.println(string.indexOf('a'));//  -->  index number of first 'a' --> 1
 
 
     }

@@ -22,5 +22,6 @@ public class Practice_1 {
         int result3 = num1 == num3  ? num1++ + num2++ : num3++ + num3;  // num3 = 13
         double result4 = num1 == num3  ?  money : num3++ + num3;
         System.out.println(result3);
+        System.out.println(result4);
     }
 }
