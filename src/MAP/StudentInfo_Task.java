@@ -66,6 +66,36 @@ City: Chicago
 
         System.out.println(ls);
 
+
+        //if student's city is 'chicago' creat an email adress as name+  chicago@gmail.com
+
+        for (int i = 0; i <ls.size() ; i++) {
+
+            if(ls.get(i).get("city").equals("chicago")){
+
+                System.out.println(ls.get(i).get("firstName"));
+
+
+            }
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //        for (Object studentsInfo:ls) {
 //
 //            System.out.println(studentsInfo);
