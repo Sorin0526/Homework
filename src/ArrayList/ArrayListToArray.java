@@ -12,11 +12,11 @@ public class ArrayListToArray {
         cars.add("Tofas");
         cars.add("Lada");
 
-
+        System.out.println(cars);
         // HOW TO CONVERT ARRAYLIST TO ARRAY IS BY USING 'toArray' method
        Object [] cars1 =  cars.toArray();
 
-        System.out.println(cars1[1]);
+        System.out.println(cars1);
 
 
 
